@@ -522,7 +522,7 @@ def infinite(target, color, msgs):
 			pass
 			clear()
 			banner()
-			print("Bombing started, don't exit\nNo. of Requests Sent: "+ str(times))
+			print("Bombing started, don't exit\nNo. of Requests Sent: "+ str(times)+ "/" + str(msgs)
 
 
 colors = [
